@@ -64,5 +64,10 @@ loans.csv
 applicationId,beneficiaryId,bank_name,bank_type,account_no,ifsc_code,loan_amount,sanction_amount
 A001,001,HDFC,Private,ABC1234XYZ,HDFC0001234,100000,90000
 
+ScreenShots of DBTables 
+![beneficiaries_table](https://github.com/user-attachments/assets/3d74b528-b97b-4084-b876-2d8e5afcddaf)
+![Loan_Table](https://github.com/user-attachments/assets/064b13e3-4cb8-4cdc-996a-700b009c98ce)
+
+
 
 
